@@ -1,5 +1,6 @@
 @echo off
 color 2
+echo                                                        Created by D0wzy (https://dowzy.fr)
 
 :start
 set /a num1=%random% %%255 && set /a num2=%random% %%255 && set /a num3=%random% %%255 && set /a num4=%random% %%255 && set /a port=%random% %%65535
